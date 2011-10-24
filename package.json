@@ -1,0 +1,9 @@
+{
+	"name": "certman-test",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"zappa": ">= 0.2",
+		"coffee-script": ">= 1.1.2"
+	}
+}
